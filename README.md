@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @mrChessman
-- 👀 I’m interested in programming, ethical hacking, cyber security
-- 🌱 I’m currently learning c++, java
-- 💞️ I’m looking to collaborate on projects on the cyber security field
--
-
+HOWDY! I'M BHAVANAADISH MUTHUKRISHNAN, A HIGH SCHOOL STUDENT FROM INDIA
+-PROGRAMMER | ETHICAL HACKER | ENTREPRENEUR | SCRIPT WRITER|
+-COMPTIA CERTIFIED PENTESTER CUM SECURITY ENGINEER
+-CISCO CERTIFIED NETWORK ADMINISTRATOR
+-IN COLLAB WITH KEYSIGHT TECHNOLOGIES LTD.
+-LOOKING FORWARD FOR FURTHUR COLLABORATIONS
+-STATE LEVEL PROGRAMMING CHAMPIONSHIP GOLD MEDALLIST
+-MEMBER @THEF.R.I.E.N.D.S CLUB
+-VICE PRESIDENT @BANGALORESCHOOLNERDSUNION
+-KALI LINUX<3
+-MONEY-MINDED
+-RUST<3
 <!---
 mrChessman/mrChessman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
